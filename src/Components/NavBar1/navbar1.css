@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500;800&display=swap'); */
+.heading{
+    margin: 40px 0;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: capitalize;
+    /* font-family: 'Dela Gothic One', cursive; */
+    /* font-family: 'Raleway', sans-serif; */
+}
+
+@media (max-width: 960px ){
+   
+.heading{
+    font-size: 40px;
+}
+    
+}
